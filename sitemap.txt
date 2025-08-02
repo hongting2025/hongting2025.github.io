@@ -1,0 +1,4 @@
+http://example.com/2025/08/02/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/
+http://example.com/2025/08/02/hello-world/
+http://example.com/
+http://example.com/tags/java/
